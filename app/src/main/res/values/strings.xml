@@ -3,4 +3,5 @@
     <string name="show_history">show history</string>
     <string name="add_to_db">add to db</string>
     <string name="take_picture">take picture</string>
+    <string name="clear_history">clear</string>
 </resources>
